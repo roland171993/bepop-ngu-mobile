@@ -1,0 +1,2 @@
+/Users/virpalsinhjadeja/Desktop/eschool-saas /v1.5.4 latest code/student parent code/e-school-saas/android/app/.cxx/RelWithDebInfo/16u3f35c/x86_64/CMakeFiles/edit_cache.dir
+/Users/virpalsinhjadeja/Desktop/eschool-saas /v1.5.4 latest code/student parent code/e-school-saas/android/app/.cxx/RelWithDebInfo/16u3f35c/x86_64/CMakeFiles/rebuild_cache.dir

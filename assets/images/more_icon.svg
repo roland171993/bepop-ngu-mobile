@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="more_icon" transform="translate(-995 -3837)">
+    <rect id="Rectangle_17460" data-name="Rectangle 17460" width="24" height="24" transform="translate(995 3837)" fill="none"/>
+    <g id="list_2_" data-name="list(2)" transform="translate(995 3837)">
+      <path id="Path_3517" data-name="Path 3517" d="M7,6H23a1,1,0,0,0,0-2H7A1,1,0,0,0,7,6Z"/>
+      <path id="Path_3518" data-name="Path 3518" d="M23,11H7a1,1,0,0,0,0,2H23a1,1,0,0,0,0-2Z"/>
+      <path id="Path_3519" data-name="Path 3519" d="M23,18H7a1,1,0,0,0,0,2H23a1,1,0,0,0,0-2Z"/>
+      <circle id="Ellipse_147" data-name="Ellipse 147" cx="2" cy="2" r="2" transform="translate(0 3)"/>
+      <circle id="Ellipse_148" data-name="Ellipse 148" cx="2" cy="2" r="2" transform="translate(0 10)"/>
+      <circle id="Ellipse_149" data-name="Ellipse 149" cx="2" cy="2" r="2" transform="translate(0 17)"/>
+    </g>
+  </g>
+</svg>

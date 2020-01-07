@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539033120705",
+    "project_id": "e-school-saas",
+    "storage_bucket": "e-school-saas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539033120705:android:10f3b01274c5d641d8c940",
+        "android_client_info": {
+          "package_name": "com.roland.assoh.bepopngu.saas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpb7FV7ftE4RUASyGgoQVoi4I_AAcntcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539033120705:android:a1b82fa3121c43a2d8c940",
+        "android_client_info": {
+          "package_name": "com.roland.saas.staff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpb7FV7ftE4RUASyGgoQVoi4I_AAcntcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

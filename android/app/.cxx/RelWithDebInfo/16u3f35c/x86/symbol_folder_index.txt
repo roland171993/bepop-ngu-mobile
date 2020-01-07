@@ -1,0 +1,1 @@
+/Users/virpalsinhjadeja/Desktop/eschool-saas /v1.5.4 latest code/student parent code/e-school-saas/build/app/intermediates/cxx/RelWithDebInfo/16u3f35c/obj/x86

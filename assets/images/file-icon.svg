@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.174" height="24" viewBox="0 0 18.174 24">
+  <g id="file-icon" transform="translate(-170.208 -205.103)">
+    <rect id="Rectangle_17417" data-name="Rectangle 17417" width="16.262" height="22.088" rx="2" transform="translate(172.12 207.016)" fill="#57cc99"/>
+    <g id="Group_7163" data-name="Group 7163" transform="translate(170.208 205.103)">
+      <path id="Path_3251" data-name="Path 3251" d="M238.264,227.126H227.975a.934.934,0,0,0-.937.931v20.225a.934.934,0,0,0,.937.931h14.389a.934.934,0,0,0,.936-.931V232.136Z" transform="translate(-227.039 -227.126)" fill="#fff"/>
+      <path id="Path_3252" data-name="Path 3252" d="M341.4,231.227a.936.936,0,0,0,.936.936h4.1l-5.037-5.037Z" transform="translate(-330.172 -227.126)" fill="#ebf2fc"/>
+    </g>
+    <rect id="Rectangle_17418" data-name="Rectangle 17418" width="1.874" height="9" rx="0.937" transform="translate(182.839 221.706) rotate(90)" fill="#57cc99"/>
+    <rect id="Rectangle_17419" data-name="Rectangle 17419" width="1.874" height="9" rx="0.937" transform="translate(182.839 217.706) rotate(90)" fill="#57cc99"/>
+    <rect id="Rectangle_17420" data-name="Rectangle 17420" width="1.874" height="6" rx="0.937" transform="translate(182.839 213.706) rotate(90)" fill="#57cc99"/>
+  </g>
+</svg>

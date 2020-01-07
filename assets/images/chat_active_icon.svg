@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="chat_active_icon" transform="translate(-1990 1731)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(1990 -1730.998)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_261" data-name="Path 261" d="M6,6A1,1,0,0,1,7,5h5a1,1,0,0,1,0,2H7A1,1,0,0,1,6,6Z" fill="#212121"/>
+        <path id="Path_262" data-name="Path 262" d="M18,14a1,1,0,0,1-1,1H7a1,1,0,0,1,0-2H17A1,1,0,0,1,18,14Z" fill="#212121"/>
+        <path id="Path_263" data-name="Path 263" d="M18,10a1,1,0,0,1-1,1H7A1,1,0,0,1,7,9H17A1,1,0,0,1,18,10Z" fill="#212121"/>
+        <path id="Path_264" data-name="Path 264" d="M20,0H4A4,4,0,0,0,0,4V16a4,4,0,0,0,4,4H6.9l4.45,3.76a1,1,0,0,0,1.29,0L17.1,20H20a4,4,0,0,0,4-4V4A4,4,0,0,0,20,0Zm2,16a2,2,0,0,1-2,2H17.1a2,2,0,0,0-1.29.47L12,21.69,8.19,18.47A2,2,0,0,0,6.9,18H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2H20a2,2,0,0,1,2,2Z" fill="#212121"/>
+        <path id="Path_265" data-name="Path 265" d="M20,2H4A2,2,0,0,0,2,4V16a2,2,0,0,0,2,2H6.9a2,2,0,0,1,1.29.47L12,21.69l3.81-3.22A2,2,0,0,1,17.1,18H20a2,2,0,0,0,2-2V4A2,2,0,0,0,20,2ZM7,5h5a1,1,0,0,1,0,2H7A1,1,0,0,1,7,5ZM17,15H7a1,1,0,0,1,0-2H17a1,1,0,0,1,0,2Zm0-4H7A1,1,0,0,1,7,9H17a1,1,0,0,1,0,2Z" fill="#57cc99"/>
+        <path id="Path_266" data-name="Path 266" d="M13,6a1,1,0,0,1-1,1H7A1,1,0,0,1,7,5h5A1,1,0,0,1,13,6Z" fill="#212121"/>
+        <path id="Path_267" data-name="Path 267" d="M18,10a1,1,0,0,1-1,1H7A1,1,0,0,1,7,9H17A1,1,0,0,1,18,10Z" fill="#212121"/>
+        <path id="Path_268" data-name="Path 268" d="M18,14a1,1,0,0,1-1,1H7a1,1,0,0,1,0-2H17A1,1,0,0,1,18,14Z" fill="#212121"/>
+      </g>
+    </g>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="24" height="24" transform="translate(1990 -1731)" fill="none"/>
+  </g>
+</svg>

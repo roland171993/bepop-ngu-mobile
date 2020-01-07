@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/virpalsinhjadeja/Documents/FlutterDev/sdk/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/virpalsinhjadeja/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/virpalsinhjadeja/Desktop/eschool-saas /v1.5.4 latest code/student parent code/e-school-saas/android/app/.cxx/RelWithDebInfo/16u3f35c/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/virpalsinhjadeja/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/virpalsinhjadeja/Desktop/eschool-saas /v1.5.4 latest code/student parent code/e-school-saas/android/app/.cxx/RelWithDebInfo/16u3f35c/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

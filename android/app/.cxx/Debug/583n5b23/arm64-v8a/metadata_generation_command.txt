@@ -1,0 +1,20 @@
+                        -H/Users/virpalsinhjadeja/Documents/FlutterDev/sdk/flutter/packages/flutter_tools/gradle/src/main/groovy
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_PLATFORM=android-23
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/Users/virpalsinhjadeja/Library/Android/sdk/ndk/26.1.10909125
+-DCMAKE_ANDROID_NDK=/Users/virpalsinhjadeja/Library/Android/sdk/ndk/26.1.10909125
+-DCMAKE_TOOLCHAIN_FILE=/Users/virpalsinhjadeja/Library/Android/sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/virpalsinhjadeja/Library/Android/sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/virpalsinhjadeja/Desktop/eschool-saas /v1.5.4 latest code/student parent code/e-school-saas/build/app/intermediates/cxx/Debug/583n5b23/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/virpalsinhjadeja/Desktop/eschool-saas /v1.5.4 latest code/student parent code/e-school-saas/build/app/intermediates/cxx/Debug/583n5b23/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/virpalsinhjadeja/Desktop/eschool-saas /v1.5.4 latest code/student parent code/e-school-saas/android/app/.cxx/Debug/583n5b23/arm64-v8a
+-GNinja
+-Wno-dev
+--no-warn-unused-cli
+                        Build command args: []
+                        Version: 2
